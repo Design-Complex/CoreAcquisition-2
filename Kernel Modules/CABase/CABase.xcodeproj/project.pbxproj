@@ -123,7 +123,9 @@
 		D497B39B150172F600359F2C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = CA;
 				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "Rob Dotson, Center for Neural Science, New York University";
 			};
 			buildConfigurationList = D497B39E150172F600359F2C /* Build configuration list for PBXProject "CABase" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -280,6 +282,7 @@
 				D497B3B9150172F600359F2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

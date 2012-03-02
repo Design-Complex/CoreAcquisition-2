@@ -202,7 +202,9 @@
 		D497B3DD1501736800359F2C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = CA;
 				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "Rob Dotson, Center for Neural Science, New York University";
 			};
 			buildConfigurationList = D497B3E01501736800359F2C /* Build configuration list for PBXProject "CoreAcquisition" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -422,6 +424,7 @@
 				D497B4131501736800359F2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D497B4141501736800359F2C /* Build configuration list for PBXNativeTarget "CoreAcquisitionTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +433,7 @@
 				D497B4161501736800359F2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
