@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:Framework"
+      name = "Framework">
+      <FileRef
+         location = "group:CoreAcquisition/CoreAcquisition.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:Kernel Modules"
+      name = "Kernel Modules">
+      <FileRef
+         location = "group:CABase/CABase.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:NationalInstruments/NationalInstruments.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
